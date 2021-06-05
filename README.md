@@ -4,10 +4,6 @@
 
 </div>
 
-### 데싸 입니다.
-- 데이터 사이언티스트 in ABC Corp.
-- I organize a group of developers who write blog posts
-
 ### Interest
 - Google Cloud Platform(Especially, BigQuery)
 - Leadership, Mentoring, Writing, Presentation
