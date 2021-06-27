@@ -12,14 +12,12 @@
 <!-- <div align=center> -->
 
 
-# **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.yws1502.com) 
+# **Develope👨‍💻** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.yws1502.com) 
   [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=yws1502)](https://github.com/yws1502)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/profile/yws1502)
 
-
-- Enjoying Data Handling as well as Modeling
 - Coding is fun :)
 
 ## **Keywords about ME**
