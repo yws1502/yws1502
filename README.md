@@ -31,8 +31,8 @@
 ## 프로젝트 이력
 | 프로젝트 명 | 전체 프로젝트 기간 | 업무 수행 기간 | 역할/수행 업무 |
 | -- | -- | -- | --|
-| [mask_detection_project](https://github.com/Slangoij/SideProj.-Mask_Detection) | 21.5 ~ 21.6 | 21.5 ~ 21.6 | full-stack, 모델 설계 |
-| [Dry_Hand](https://github.com/Slangoij/PlayData_Final_Project) | 21.6 ~ 21.7 | -ing | 모델 설계, 기능 알고리즘 구현 |
+| [mask_detection(WEB)](https://github.com/Slangoij/SideProj.-Mask_Detection) | 21.5 ~ 21.6 | 21.5 ~ 21.6 | full-stack, 모델 설계 |
+| [Dry_Hand(GUI)](https://github.com/Slangoij/PlayData_Final_Project) | 21.6 ~ 21.7 | -ing | 모델 설계, 기능 알고리즘 구현 |
 
 
 
