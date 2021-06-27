@@ -1,40 +1,42 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
 </div>
 
 ### Hi there 👋
 
 
 ### Interest
-- Google Cloud Platform(Especially, BigQuery)
-- Leadership, Mentoring, Writing, Presentation
+- deep learning
+- Python
+- Apache Spark
+<!-- <div align=center> -->
 
-<div align=center>
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/test)](https://www.facebook.com/zzsza) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/aa/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
-</div>
+# **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.yws1502.com) 
+  [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=yws1502)](https://github.com/yws1502/github-readme-stats)
 
-# **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=shoman2)](https://github.com/shoman2/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/yes1502)
 
 
 - Enjoying Data Handling as well as Modeling
-- Data Analytics Planning is fun :)
+- Coding is fun :)
 
 ## **Keywords about ME**
 
-####  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
+####  #Data #Passion #ML/DL #Modeler
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-you-kim-5204184b/)](https://www.linkedin.com/in/tae-you-kim-5204184b/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/tae.y.kim.56) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/tae.y.kim.56) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/aa/) 
+## 프로젝트 이력
+| 프로젝트 명 | 전체 프로젝트 기간 | 업무 수행 기간 | 역할/수행 업무 |
+| -- | -- | -- | --|
+| [mask_detection_project](https://github.com/Slangoij/SideProj.-Mask_Detection) | 21.5 ~ 21.6 | 21.5 ~ 21.6 | full-stack, 모델 설계 |
+| [Dry_Hand](https://github.com/Slangoij/PlayData_Final_Project) | 21.6 ~ 21.7 | -ing | 모델 설계, 기능 알고리즘 구현 |
 
 
 
-<!--
-**yws1502/yws1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **yws1502/yws1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,5 +47,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
