@@ -16,7 +16,7 @@
   [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=yws1502)](https://github.com/yws1502)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/yes1502)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/profile/yws1502)
 
 
 - Enjoying Data Handling as well as Modeling
