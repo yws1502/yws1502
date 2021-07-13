@@ -3,7 +3,6 @@
 </div>
 
 ### Hi there 👋
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/usang_yun/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/profile.php?id=100007297308754) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:woosang0430@gmail.com)
 
 ### Interest
 - Python
@@ -24,7 +23,7 @@
 ## **Keywords about ME**
 
 ####  #Data #Passion #ML/DL #Modeler
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/usang_yun/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/profile.php?id=100007297308754) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:woosang0430@gmail.com)
 <!--   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) -->
 
 
