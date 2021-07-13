@@ -6,9 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/usang_yun/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/profile.php?id=100007297308754) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:woosang0430@gmail.com)
 
 ### Interest
-- deep learning
 - Python
-- Apache Spark
+- deep learning
+- Tensorflow
 <!-- <div align=center> -->
 
 
@@ -32,7 +32,7 @@
 | 프로젝트 명 | 전체 프로젝트 기간 | 업무 수행 기간 | 역할/수행 업무 |
 | -- | -- | -- | --|
 | [mask_detection(WEB)](https://github.com/Slangoij/SideProj.-Mask_Detection) | 2021.5 ~ 2021.6 | 2021.5 ~ 2021.6 | full-stack, 모델 설계 |
-| [Dry_Hand(GUI)](https://github.com/Slangoij/PlayData_Final_Project) | 2021.6 ~ 2021.7 | -ing | 모델 설계, 기능 알고리즘 구현 |
+| [Dry_Hand(GUI)](https://github.com/Slangoij/PlayData_Final_Project) | 2021.6 ~ 2021.7 | 2021.6 ~ 2021.7 | 모델 설계, 기능 알고리즘 구현 |
 
 
 
