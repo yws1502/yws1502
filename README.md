@@ -6,7 +6,8 @@
 
 ### Interest
 - Python
-- deep learning
+- ML / DL
+- Computer Vision
 - Tensorflow
 <!-- <div align=center> -->
 
