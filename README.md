@@ -8,6 +8,7 @@
 - Python
 - ML / DL
 - Computer Vision
+- Back-end
 - Tensorflow
 <!-- <div align=center> -->
 
@@ -31,8 +32,8 @@
 ## Project Record
 | 프로젝트 명 | 전체 프로젝트 기간 | 업무 수행 기간 | 역할/수행 업무 |
 | -- | -- | -- | --|
-| [mask_detection(WEB)](https://github.com/Slangoij/SideProj.-Mask_Detection) | 2021.5 ~ 2021.6 | 2021.5 ~ 2021.6 | full-stack, 모델 설계 |
-| [Dry_Hand(GUI)](https://github.com/Slangoij/PlayData_Final_Project) | 2021.6 ~ 2021.7 | 2021.6 ~ 2021.7 | 모델 설계, 기능 알고리즘 구현 |
+| [mask_detection(WEB)](https://github.com/Slangoij/SideProj.-Mask_Detection) | 2021.5 ~ 2021.6 | 2021.5 ~ 2021.6 | 데이터 전처리, 모델 설계 |
+| [Dry_Hand(GUI)](https://github.com/Slangoij/PlayData_Final_Project) | 2021.6 ~ 2021.7 | 2021.6 ~ 2021.7 | 모델 설계, 제스처 추출 알고리즘 구현 |
 
 
 
