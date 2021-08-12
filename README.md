@@ -7,7 +7,6 @@
 ### Interest
 - Python
 - ML / DL
-- Computer Vision
 - Back-end
 - Tensorflow
 <!-- <div align=center> -->
