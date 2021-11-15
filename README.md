@@ -3,27 +3,16 @@
 </div>
 
 ### Hi there 👋
-
-### Interest
-- Python
-- ML / DL
-- Back-end
-- Tensorflow
 <!-- <div align=center> -->
 
 
 # **Developer👨‍💻** <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.yws1502.com) -->
-[![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=yws1502)](https://github.com/yws1502)
-
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/profile/yws1502)
 
 
 - 😄Coding is fun :)
 
-## **Keywords about ME**
-
-####  #Data #Passion #ML/DL #Modeler
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/usang_yun/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/profile.php?id=100007297308754) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:woosang0430@gmail.com)
 <!--   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) -->
 
