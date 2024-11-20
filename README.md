@@ -1,21 +1,3 @@
-<pre>
-  
-  ___       __   ________  ________  ________  ________  ________   ________     
- |\  \     |\  \|\   __  \|\   __  \|\   ____\|\   __  \|\   ___  \|\   ____\    
- \ \  \    \ \  \ \  \|\  \ \  \|\  \ \  \___|\ \  \|\  \ \  \\ \  \ \  \___|    
-  \ \  \  __\ \  \ \  \\\  \ \  \\\  \ \_____  \ \   __  \ \  \\ \  \ \  \  ___  
-   \ \  \|\__\_\  \ \  \\\  \ \  \\\  \|____|\  \ \  \ \  \ \  \\ \  \ \  \|\  \ 
-    \ \____________\ \_______\ \_______\____\_\  \ \__\ \__\ \__\\ \__\ \_______\
-     \|____________|\|_______|\|_______|\_________\|__|\|__|\|__| \|__|\|_______|
-                                       \|_________|                              
-
-</pre>
-
-### Hi there 👋
-
-<!-- <div align=center> -->
-
-
 # **Frontend Developer👨‍💻** <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.yws1502.com) -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yws1502)](https://solved.ac/profile/yws1502)
@@ -31,20 +13,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-<!--   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) -->
-
-### Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) -->
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) -->
 
 <!-- ### ML / DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -58,6 +31,8 @@
 ## Project Record
 | 프로젝트 명 | 전체 프로젝트 기간 | 역할/수행 업무 | 기술 스택 |
 | -- | -- | -- | -- |
+| [A Daily Diary(FE)](https://github.com/a-daily-diary/ADD.FE) | 2022.09 ~ 현재 | 랜덤 매칭 기능 구현 | TS, NextJs, React Query, Emotion, SocketIO, WebRTC |
+| [A Daily Diary(BE)](https://github.com/a-daily-diary/ADD.BE) | 2022.09 ~ 현재 | API 서버 구축 및 Swagger 적용 | TS, NestJs, SocketIO, TypeORM, PostgreSQL |
 | [Orange_Market(WEB)](https://github.com/yws1502/Orange_market) | 2021.12 ~ 2022.01 | 1인 프로젝트(Frontend) && [팀 프로젝트](https://github.com/junep16/peach-market) | HTML, CSS(SCSS), JS |
 | [Daily_Study(WEB)](https://github.com/yws1502/DailyStudy) | 2021.08 ~ 2021.09 | 1인 프로젝트(Backend) | python(Django) |
 | [Dry_Hand(GUI)](https://velog.io/@yws1502/DryHand-Project) | 2021.06 ~ 2021.07 | 제스처 추출 모듈 구현 | python(Tensorflow, Qt5) |
